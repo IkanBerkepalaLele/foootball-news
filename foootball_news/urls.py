@@ -21,5 +21,6 @@ app_name = 'main'
 
 urlpatterns = [
     path('', include('main.urls')),
+    path('auth/', include('authentication.urls')),
 
 ]

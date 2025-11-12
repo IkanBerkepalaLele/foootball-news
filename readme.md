@@ -1,0 +1,2 @@
+- Pemrograman Berbasis Platform (PBP) CSUI24 Tutorial's Repo
+- Web can be accessed in: https://ghozam-muliawan-foootballnews.pbp.cs.ui.ac.id/login/?next=/
